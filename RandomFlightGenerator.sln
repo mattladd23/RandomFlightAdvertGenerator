@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandomFlightGenerator", "RandomFlightGenerator\RandomFlightGenerator.csproj", "{E1EF3FB4-A86A-4F5B-921E-026B8EAFEBD9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1EF3FB4-A86A-4F5B-921E-026B8EAFEBD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1EF3FB4-A86A-4F5B-921E-026B8EAFEBD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1EF3FB4-A86A-4F5B-921E-026B8EAFEBD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1EF3FB4-A86A-4F5B-921E-026B8EAFEBD9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D3E32917-C6BD-4056-A128-AD1D0998612E}
+	EndGlobalSection
+EndGlobal
